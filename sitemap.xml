@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+  <url>
+       <loc>https://likesieure.shop/</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/Home</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/Login</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/Sinup</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/gettoken2/huysub.php</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/gettoken2/gettoken.php</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/gettoken2/sharepage.php</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/gettoken2/cmtpage.php</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://likesieure.shop/gettoken2/</loc>
+       <lastmod>2020-06-21T14:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
